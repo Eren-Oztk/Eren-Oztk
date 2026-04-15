@@ -13,7 +13,7 @@
 
 # 🚀 Eren Öztürk
 
-**`Software Developer · IoT Enthusiast · Space Dreamer`**
+**`Software Developer · Hardware Hacker · Space Dreamer`**
 
 *"Her kod satırı, uzaya biraz daha yaklaşmak için."*
 
@@ -27,37 +27,45 @@
 
 ## 🛸 Hakkımda
 
-Yazılımı araç olarak görüyorum — dünyayı anlamak ve belki bir gün uzayı da dahil etmek için.  
-IoT'tan yapay zekaya, otomasyon araçlarından web uygulamalarına kadar geniş bir yelpazede proje geliştiriyorum.
+Yazılımı araç olarak görüyorum — dünyayı anlamak, sistemleri birbirine bağlamak ve belki bir gün uzayı da dahil etmek için.
 
-Şu an öğrenmeye devam ediyorum. Her proje bir sonraki için bir basamak.
+Sadece yazılım değil; donanım da. Bir projem ekranda çalışır, bir diğeri fiziksel dünyada hareket eder.
+Şu an öğrenmeye devam ediyorum — her proje bir sonraki için zemin hazırlıyor.
 
 ---
 
 ## ⚙️ Teknolojiler
 
 ```
-🐍 Python        ████████████░░  Otomasyon, AI, veri işleme
-🌐 JavaScript    ██████████░░░░  Web, frontend
-⚡ Arduino/C++   █████████░░░░░  IoT, sensör sistemleri
-🔗 Flask         ████████░░░░░░  Backend API
-🤖 n8n           ████████░░░░░░  Workflow otomasyonu
-💬 Telegram API  ███████░░░░░░░  Bot geliştirme
-🗃️ SQLite        ██████░░░░░░░░  Hafif veritabanı
+🐍 Python          ████████████░░  Otomasyon, AI, scripting
+🌐 JavaScript      ██████████░░░░  Web, frontend
+⚡ Arduino / C++   █████████░░░░░  IoT, sensör, kontrol sistemleri
+🐧 Linux / Bash    ████████░░░░░░  Sistem yönetimi, otomasyon
+🔗 Flask           ████████░░░░░░  Backend API
+🔄 n8n             ████████░░░░░░  Workflow otomasyonu
+🖨️ 3D Yazıcı       ███████░░░░░░  Donanım, firmware, kalibrasyon
+💬 Telegram API    ███████░░░░░░░  Bot geliştirme
+🗃️ SQLite          ██████░░░░░░░░  Hafif veritabanı
 ```
 
 ---
 
-## 🌌 Proje Alanları
+## 🌌 Ne Tür Şeyler Build Ediyorum?
 
-| Alan | Açıklama |
-|------|----------|
-| 🤖 **AI & Görüntü İşleme** | Real-ESRGAN, GFPGAN ile görüntü yükseltme stüdyosu |
-| 🔌 **IoT & Donanım** | Arduino tabanlı sensör ve kontrol sistemleri |
-| 🕸️ **Web Scraping** | Google Maps API ile iş yeri veri toplama uygulaması |
-| 🔄 **Otomasyon** | n8n workflow'ları ile süreç otomasyonu |
-| 💻 **Web Geliştirme** | Flask backend, vanilla JS frontend projeleri |
-| 🤖 **Bot Sistemleri** | Telegram bot'ları ile kullanıcı arayüzleri |
+**Yapay Zeka & Görüntü İşleme**
+Model tabanlı görüntü yükseltme ve yüz restorasyonu araçları. Sinir ağlarını gerçek kullanım senaryolarına uyarlama.
+
+**IoT & Donanım Sistemleri**
+Arduino ile sensör okumaları, aktüatör kontrolü ve fiziksel dünyayla konuşan yazılımlar. 3D yazıcı firmware özelleştirmesi (Klipper).
+
+**Otomasyon & Veri Toplama**
+Web scraping, API entegrasyonları ve n8n workflow'larıyla tekrarlayan işleri otomatikleştirme. Verileri toplayıp anlamlı hale getirme.
+
+**Web Uygulamaları & Botlar**
+Flask backend, vanilla JS frontend kombinasyonuyla araç odaklı web uygulamaları. Telegram bot'larıyla kullanıcıya ulaşan arayüzler.
+
+**Geliştirici Araçları**
+Teknik projeleri teknik bilgisi olmayan kullanıcılara görsel ve anlaşılır biçimde sunan sistemler.
 
 ---
 
@@ -77,9 +85,9 @@ IoT'tan yapay zekaya, otomasyon araçlarından web uygulamalarına kadar geniş 
 
 ## 🔭 Şu An
 
-- 📚 Yeni projeler geliştiriyor ve GitHub'a taşıyor
-- 🛠️ IoT + AI entegrasyonları üzerine çalışıyor
-- 🌱 Her gün bir şeyler öğrenmeye devam ediyor
+- 🖨️ 3D yazıcı + Klipper üzerinde firmware denemeleri
+- 🤖 IoT ve AI'ı tek sistemde birleştirmeyi araştırıyorum
+- 🌱 Her gün bir şeyler öğrenmeye devam ediyorum
 
 ---
 
