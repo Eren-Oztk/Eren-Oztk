@@ -166,10 +166,10 @@ Full AI influencer pipeline: LoRA-trained ComfyUI model, Instagram carousel gene
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erenozatak)
-[![Website](https://img.shields.io/badge/ErSeLabs-e94560?style=for-the-badge&logo=safari&logoColor=white)](https://erseLabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eren-özatak-579b4b18a)
+[![Website](https://img.shields.io/badge/ErSeLabs-e94560?style=for-the-badge&logo=safari&logoColor=white)](https://erseLabs.com.tr)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/erenozatak)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erenozatak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eren_oztk_)
 
 </div>
 
