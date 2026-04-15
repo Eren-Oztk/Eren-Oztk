@@ -156,7 +156,7 @@ Full AI influencer pipeline: LoRA-trained ComfyUI model, Instagram carousel gene
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=erenozatak&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Eren-Oztk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
