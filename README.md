@@ -11,7 +11,7 @@
  ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝  
 ```
 
-# 🚀 Eren Öztürk
+# 🚀 Eren Özatak
 
 **`Software Developer · Hardware Hacker · Space Dreamer`**
 
