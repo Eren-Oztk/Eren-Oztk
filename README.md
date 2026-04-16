@@ -1,17 +1,27 @@
 <div align="center">
 
-<picture>
-  <img src="https://images-assets.nasa.gov/image/art002e009288/art002e009288~orig.jpg" alt="Artemis II — Earthset over the Moon" style="width:100%;max-height:340px;object-fit:cover;border-radius:0"/>
-</picture>
+<a href="https://erenozatak.com.tr">
+  <img src="https://images-assets.nasa.gov/image/art002e009567/art002e009567~large.jpg" alt="Artemis II — Orion, Moon & Earth" width="100%"/>
+</a>
 
-<div style="background: rgba(0,0,0,0.6); margin-top: -4px; padding: 28px 0 18px;">
+<br/>
+<br/>
 
-# Eren Özatak
-### Teknoloji Çözümleri Mimarı
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Eren+Özatak" alt="Eren Özatak"/>
+</h1>
 
-`Web Geliştirme` • `Yapay Zeka Otomasyonu` • `Siber Güvenlik` • `IoT & Gömülü Sistemler`
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=a8b2d8&center=true&vCenter=true&width=650&lines=Teknoloji+Çözümleri+Mimarı;Yönetim+Bilişim+Sistemleri+Mezunu;Web+%7C+Yapay+Zeka+%7C+Siber+Güvenlik+%7C+IoT" alt="subtitle"/>
+</h3>
 
-</div>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-özatak-579b4b18a)
+[![Website](https://img.shields.io/badge/erenozatak.com.tr-222222?style=flat-square&logo=safari&logoColor=white)](https://erenozatak.com.tr)
+[![ErSeLabs](https://img.shields.io/badge/ErSeLabs-c8a46e?style=flat-square&logo=briefcase&logoColor=black)](https://erselabs.com.tr)
+[![Telegram](https://img.shields.io/badge/@ErenOzatak-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ErenOzatak)
+[![Instagram](https://img.shields.io/badge/eren__oztk__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eren_oztk_)
 
 </div>
 
