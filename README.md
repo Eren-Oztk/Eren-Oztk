@@ -4,7 +4,6 @@
   <img src="hero.svg" width="100%" alt="Eren Özatak"/>
 </a>
 
-
 <h1>Eren Özatak</h1>
 
 <h3>Teknoloji Çözümleri Mimarı &nbsp;·&nbsp; Yönetim Bilişim Sistemleri Mezunu</h3>
