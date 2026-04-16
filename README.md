@@ -1,9 +1,18 @@
 <div align="center">
 
+<a href="https://erenozatak.com.tr">
+  <img src="hero.svg" width="100%" alt="Eren Özatak"/>
+</a>
+
+<br/>
+<br/>
+
 <h1>Eren Özatak</h1>
 
 <h3>Teknoloji Çözümleri Mimarı &nbsp;·&nbsp; Yönetim Bilişim Sistemleri Mezunu</h3>
 <p>Web &nbsp;|&nbsp; Yapay Zeka &nbsp;|&nbsp; Siber Güvenlik &nbsp;|&nbsp; IoT</p>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-özatak-579b4b18a)
 [![Website](https://img.shields.io/badge/erenozatak.com.tr-222222?style=flat-square&logo=safari&logoColor=white)](https://erenozatak.com.tr)
