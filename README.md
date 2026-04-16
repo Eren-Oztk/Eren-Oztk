@@ -4,8 +4,6 @@
   <img src="hero.svg" width="100%" alt="Eren Özatak"/>
 </a>
 
-<br/>
-<br/>
 
 <h1>Eren Özatak</h1>
 
