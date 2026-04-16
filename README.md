@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://erenozatak.com.tr">
-  <img src="https://images-assets.nasa.gov/image/art002e009567/art002e009567~large.jpg" alt="Artemis II — Orion, Moon & Earth" width="100%"/>
+  <img src="hero.svg" width="100%" alt="Eren Özatak"/>
 </a>
 
 <br/>
