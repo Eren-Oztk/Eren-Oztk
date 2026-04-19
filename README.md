@@ -24,8 +24,8 @@
 
   <br/>
 
- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2CA5E0&center=true&vCenter=true&width=800&lines=Merhaba,+Eren%27in+d%C3%BCnyas%C4%B1na+ho%C5%9F+geldin%21;ErSeLabs+mutfa%C4%9F%C4%B1nda+kodlar+derleniyor...;Bug%C3%BCn+hangi+sistemi+otomatize+edelim%3F;Projelerimi+a%C5%9Fa%C4%9F%C4%B1dan+inceleyebilirsin%21" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2CA5E0&center=true&vCenter=true&width=850&lines=Eren%27in+d%C3%BCnyas%C4%B1na%2C+ErSeLabs%27%C4%B1n+mutfa%C4%9F%C4%B1na+ho%C5%9F+geldin%21;Burada+kodlar%2C+devreler+ve+yapay+zeka+sanat%C4%B1+birle%C5%9Fiyor.;Senin+i%C3%A7in+bug%C3%BCn+hangi+sistemi+otomatize+edelim%3F;Bir+kahve+al+ve+deneysel+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1+ke%C5%9Ffetmeye+ba%C5%9Fla%21" alt="Typing SVG" />
 </a>
 
   <br/><br/>
