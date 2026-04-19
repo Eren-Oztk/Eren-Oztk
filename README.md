@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <img src="asistan.gif" width="180" alt="Eren'in AI Asistanı" />
+  <img src="asistann.png" width="180" alt="Eren'in AI Asistanı" />
 
   <br/>
 
