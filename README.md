@@ -25,7 +25,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2CA5E0&center=true&vCenter=true&width=600&lines=Eren'in+dünyasına,+ErSe+Labs'ın+mutfağına+hoş+geldin!+👋;Burada+kodlar,+devreler+ve+yapay+zeka+sanatı+birleşiyor.;Senin+için+bugün+hangi+sistemi+otomatize+edelim?+⚙️;Bir+kahve+al+ve+deneysel+çalışmalarımı+keşfetmeye+başla!+☕" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2CA5E0&center=true&vCenter=true&width=700&lines=Eren'in+dünyasına,+ErSe+Labs'ın+mutfağına+hoş+geldin!;Burada+kodlar,+devreler+ve+yapay+zeka+sanatı+birleşiyor.;Senin+için+bugün+hangi+sistemi+otomatize+edelim?;Bir+kahve+al+ve+deneysel+çalışmalarımı+keşfetmeye+başla!" alt="Typing SVG" />
 </a>
 
   <br/><br/>
