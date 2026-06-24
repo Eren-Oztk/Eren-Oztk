@@ -4,210 +4,127 @@
   <img src="hero.svg" width="100%" alt="Eren Özatak"/>
 </a>
 
-<h1>Eren Özatak</h1>
+# Eren Özatak
 
-<h3>Teknoloji Çözümleri Mimarı &nbsp;·&nbsp; Yönetim Bilişim Sistemleri Mezunu</h3>
-<p>Web &nbsp;|&nbsp; Yapay Zeka &nbsp;|&nbsp; Siber Güvenlik &nbsp;|&nbsp; IoT</p>
+### AI Automation · Python Tooling · DevOps-Fluent Product Builder
 
-<br/>
+Building automation systems, internal tools, lean web products, and practical AI integrations for real business workflows.
 
+[![Website](https://img.shields.io/badge/Website-erenozatak.com.tr-222222?style=flat-square&logo=safari&logoColor=white)](https://erenozatak.com.tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-özatak-579b4b18a)
-[![Website](https://img.shields.io/badge/erenozatak.com.tr-222222?style=flat-square&logo=safari&logoColor=white)](https://erenozatak.com.tr)
 [![ErSeLabs](https://img.shields.io/badge/ErSeLabs-c8a46e?style=flat-square&logo=briefcase&logoColor=black)](https://erselabs.com.tr)
-[![Telegram](https://img.shields.io/badge/@ErenOzatak-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ErenOzatak)
-[![Instagram](https://img.shields.io/badge/eren__oztk__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eren_oztk_)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ErenOzatak)
 
-</div>
-
-<div align="center">
-  <img src="asistann.png" width="180" alt="Eren'in AI Asistanı Nova" />
-
-  <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=2CA5E0&center=true&vCenter=true&width=850&lines=Eren%27in+d%C3%BCnyas%C4%B1na%2C+ErSeLabs%27%C4%B1n+mutfa%C4%9F%C4%B1na+ho%C5%9F+geldin%21;Burada+kodlar%2C+devreler+ve+yapay+zeka+sanat%C4%B1+birle%C5%9Fiyor.;Senin+i%C3%A7in+bug%C3%BCn+hangi+sistemi+otomatize+edelim%3F;Bir+kahve+al+ve+deneysel+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1m%C4%B1+ke%C5%9Ffetmeye+ba%C5%9Fla%21" alt="Typing SVG" />
-</a>
-
-  <br/><br/>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Eren-Oztk&label=Profil+Ziyaretçisi&color=c8a46e&style=flat-square" alt="Profil Sayacı" />
-  </p>
 </div>
 
 ---
 
-## 👤 Hakkımda
+## About Me
 
-<table>
-<tr>
-<td width="55%">
+I'm a Management Information Systems graduate and the builder behind **ErSeLabs**.
 
-**Yönetim Bilişim Sistemleri** mezunuyum. Teknik derinliği iş zekasıyla birleştiren bir **Teknoloji Çözümleri Mimarı** olarak; web'den yapay zekaya, siber güvenlikten gömülü sistemlere kadar geniş bir yelpazede projeler üretiyorum.
+My strongest work sits at the intersection of:
+- **AI automation**
+- **Python-based internal tools**
+- **Linux / VPS / deployment operations**
+- **workflow systems for SMBs and service businesses**
+- **practical prototypes that move quickly from idea to usable product**
 
-**[ErSeLabs](https://erselabs.com.tr)** çatısı altında müşterilere; otomasyon sistemleri, web çözümleri ve yapay zeka entegrasyonları sunuyorum. Her projemde aktif olarak yapay zeka araçlarını süreçlerin içine entegre ediyorum.
+I enjoy turning messy manual processes into reliable systems — from dashboards and automations to lightweight developer tools and deployment workflows.
 
-</td>
-<td width="45%">
-
-```yaml
-isim: Eren Özatak
-konum: Türkiye 🇹🇷
-ajans: ErSeLabs
-eğitim: Yönetim Bilişim Sistemleri
-unvan: Teknoloji Çözümleri Mimarı
-odak:
-  - Full-Stack Web Geliştirme
-  - Yapay Zeka Otomasyonu
-  - Siber Güvenlik
-  - IoT & Gömülü Sistemler
-  - VPS / DevOps
-```
-
-</td>
-</tr>
-</table>
+> Currently focused on **remote-friendly engineering work** involving automation, product tooling, AI integrations, and technical operations.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## What I Build
 
-### 💻 Diller & Çatılar
+### 1) AI Automation Systems
+Tools and pipelines that combine LLMs, bots, APIs, and operational workflows.
+
+### 2) Internal Tools & Utilities
+Small but useful products that solve real problems: repo tooling, scanners, indexing tools, reporting utilities, and workflow helpers.
+
+### 3) Deployment & Ops-Friendly Products
+Projects that are not just coded, but also packaged, deployed, monitored, and operated in real environments.
+
+---
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [repo-scribe](https://github.com/Eren-Oztk/repo-scribe) | Generates and updates GitHub repo descriptions and topics with AI. | Python, GitHub API, LLM APIs |
+| [vps-scanner](https://github.com/Eren-Oztk/vps-scanner) | Scans a VPS and Docker setup to generate a masked infrastructure report. | Bash, Linux, Docker |
+| [yerli-dali-ai-studio](https://github.com/Eren-Oztk/yerli-dali-ai-studio) | AI image upscaling and enhancement workflow with UI and Telegram integration. | Python, Gradio, Real-ESRGAN |
+| [Esp32_Wifi_Keyboard](https://github.com/Eren-Oztk/Esp32_Wifi_Keyboard) | Sends browser text to an ESP32-connected OLED display over local Wi-Fi. | ESP32, Arduino, HTML |
+| [Kod_Tarama](https://github.com/Eren-Oztk/Kod_Tarama) | Scans disks for code files and groups projects into a readable HTML report. | Python, HTML reporting |
+| [Otomotik-SS-Alma](https://github.com/Eren-Oztk/Otomotik-SS-Alma) | Lightweight screenshot utility for multi-monitor setups. | Python, desktop tooling |
+
+---
+
+## Core Stack
+
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Yapay Zeka & Otomasyon
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logo=artstation&logoColor=white)
+### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🔐 Siber Güvenlik
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### ⚙️ DevOps & Altyapı
+### Infra & Operations
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🔌 Gömülü Sistemler & IoT
+### IoT & Embedded
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Klipper](https://img.shields.io/badge/Klipper_3D_Yazıcı-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 🗄️ Veritabanı
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🚀 Öne Çıkan Projeler
+## Work Style
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 ErSeLabs — Ajans Platformu
-Web geliştirme ve yapay zeka otomasyon ajansı. Çok müşterili site dağıtım sistemi, FastAPI backend, Docker/Nginx/SSL altyapısı.
-
-`FastAPI` `Alpine.js` `Docker` `Nginx`
-
-</td>
-<td width="50%">
-
-### 🐙 Ahtapot V2 — Kripto Sinyal Sistemi
-Çok borsalı kripto sinyal yönlendirme ve analiz sistemi. Kağıt trading motoru, performans takibi ve web dashboard.
-
-`Python` `Telethon` `SQLite` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎨 Yerli Dali — Yapay Zeka Sanat Stüdyosu
-Yapay zeka destekli görsel üretim platformu. Telegram botu, Gradio arayüzü ve gerçek zamanlı upscaling entegrasyonu.
-
-`ComfyUI` `Real-ESRGAN` `Gradio` `Python`
-
-</td>
-<td width="50%">
-
-### 🔐 Burp Suite Eklentileri
-Özel geliştirilen sızma testi araçları: 403 bypass, ViewState bruteforcer, JS analiz Chrome eklentisi.
-
-`Python` `Burp Suite` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 ESP32 / IoT Güvenlik Araçları
-WiFi/BT güvenlik test araçları, sensör entegrasyonları ve duygu tabanlı robot projesi.
-
-`C++` `ESP32` `Arduino` `Python`
-
-</td>
-<td width="50%">
-
-### 📸 Yapay Zeka Influencer Sistemi
-Sıfırdan kurgulanan, yapay zeka ile yönetilen içerik üretim ve otomasyon pipeline'ı.
-
-`ComfyUI` `Python` `n8n` `Playwright`
-
-</td>
-</tr>
-</table>
+- I like **shipping useful things fast**.
+- I care about **real-world utility**, not only demos.
+- I am strongest in **builder/generalist** environments where product, automation, and ops overlap.
+- I work best on projects that need someone to both **build** and **make the system run reliably**.
 
 ---
 
-## 📊 GitHub İstatistikleri
+## GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eren-Oztk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Oztk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eren-Oztk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eren-Oztk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Eren-Oztk&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Eren-Oztk&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
 ---
 
-## 🌐 İletişim
+## Contact
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-özatak-579b4b18a)
-[![Website](https://img.shields.io/badge/Kişisel_Site-e94560?style=for-the-badge&logo=safari&logoColor=white)](https://erenozatak.com.tr)
-[![ErSeLabs](https://img.shields.io/badge/ErSeLabs-c8a46e?style=for-the-badge&logo=briefcase&logoColor=white)](https://erselabs.com.tr)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ErenOzatak)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eren_oztk_)
-
-</div>
+- Website: [erenozatak.com.tr](https://erenozatak.com.tr)
+- LinkedIn: [eren-özatak](https://www.linkedin.com/in/eren-özatak-579b4b18a)
+- Telegram: [@ErenOzatak](https://t.me/ErenOzatak)
+- Company: [ErSeLabs](https://erselabs.com.tr)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" alt="footer"/>
-
-*"Teknolojiyi araç olarak kullanan, çözümü mimar olarak tasarlayan."*
+*Building practical systems with AI, automation, and infrastructure in the loop.*
 
 </div>
