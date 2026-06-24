@@ -57,8 +57,8 @@ Projects that are not just coded, but also packaged, deployed, monitored, and op
 | [vps-scanner](https://github.com/Eren-Oztk/vps-scanner) | Scans a VPS and Docker setup to generate a masked infrastructure report. | Bash, Linux, Docker |
 | [yerli-dali-ai-studio](https://github.com/Eren-Oztk/yerli-dali-ai-studio) | AI image upscaling and enhancement workflow with UI and Telegram integration. | Python, Gradio, Real-ESRGAN |
 | [Esp32_Wifi_Keyboard](https://github.com/Eren-Oztk/Esp32_Wifi_Keyboard) | Sends browser text to an ESP32-connected OLED display over local Wi-Fi. | ESP32, Arduino, HTML |
-| [Kod_Tarama](https://github.com/Eren-Oztk/codebase-map) | Scans disks for code files and groups projects into a readable HTML report. | Python, HTML reporting |
-| [Otomotik-SS-Alma](https://github.com/Eren-Oztk/multi-monitor-screenshot-tool) | Lightweight screenshot utility for multi-monitor setups. | Python, desktop tooling |
+| [codebase-map](https://github.com/Eren-Oztk/codebase-map) | Scans disks for code files and groups projects into a readable HTML report. | Python, HTML reporting |
+| [multi-monitor-screenshot-tool](https://github.com/Eren-Oztk/multi-monitor-screenshot-tool) | Lightweight screenshot utility for multi-monitor setups. | Python, desktop tooling |
 
 ---
 
